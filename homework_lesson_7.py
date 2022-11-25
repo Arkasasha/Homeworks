@@ -1,4 +1,4 @@
-"""Homework Lesson №7"""
+"""Homework Lesson #7"""
 LIST_OF_WORDS = []
 LONG_TEXT = """asdlknfasldkmfasdfasdf"""
 
