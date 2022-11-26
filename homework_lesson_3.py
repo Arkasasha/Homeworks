@@ -27,7 +27,7 @@ if __name__ == '__main__':
     NUMBER_1 = 5
     NUMBER_2 = 10
     NUMBER_3 = 1
-    NUMBER_ABS = -7.089
+    NUMBER_ABS = -7.088
 
     print(maximum(NUMBER_1, NUMBER_2))
     print(minimum(NUMBER_1, NUMBER_2, NUMBER_3))
