@@ -13,7 +13,8 @@ def retry(attempts=5, desired_value=None):
                     inner_wrapper(*args, **kwargs)
                 else:
                     print("The desired value wasn't found")
-            return result
+            else: 
+                return result
 
         return inner_wrapper
 
